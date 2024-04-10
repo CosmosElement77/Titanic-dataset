@@ -59,7 +59,7 @@ print("Confusion Matrix:")
 print(conf_matrix)
 
 #***************************************************************************************************************************#
-### Logistic Recession ###
+### Logistic Regression ###
 
 import numpy as np
 import pandas as pd
